@@ -1,0 +1,2 @@
+# SimpleVotingsystem
+using ethereum technology
